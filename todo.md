@@ -1,0 +1,13 @@
+- install eul
+- write a script to do my symlinking
+- install mackup (if doesn't support finicky, maybe send a PR into mackup to support it)
+- install bartender or hidden
+- install Rectangle
+- install clipboard manager (paste $10/year, many free ones)
+- install Alfred (Spotlight replacement)?
+- install sublime text
+- figure out backup situation, external drives for home and work
+- make brew bundle
+- setup work printing and vpn (Kyle to send SP articles)
+- install itsycal
+- setup coding focus mode and disable teams notificatios
