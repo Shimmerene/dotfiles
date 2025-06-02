@@ -10,4 +10,5 @@
 - make brew bundle
 - setup work printing and vpn (Kyle to send SP articles)
 - install itsycal
-- setup coding focus mode and disable teams notificatios
+- setup coding focus mode and disable teams notifications
+- Install Epson ScanSmart for Epson WorkForce ES-500W II. Remove Epson ScanSmart menu item (https://stevenwestmoreland.com/2020/07/how-to-remove-the-epson-scansmart-icon-from-the-macos-menu-bar.html)
